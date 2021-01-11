@@ -19,4 +19,9 @@ public class DemoOne extends BaseClass {
 		driver.get("https://facebook.com");
 		System.out.println("testscript completed");
 	}
+
+	@Test
+	public void testCasetwo(){
+		System.out.println("testcase one");
+	}
 }
