@@ -2,31 +2,31 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="46" started-at="2021-01-11T12:52:36Z" finished-at="2021-01-11T12:52:36Z">
+  <suite name="Suite" duration-ms="40188" started-at="2021-01-11T13:09:57Z" finished-at="2021-01-11T13:10:37Z">
     <groups>
     </groups>
-    <test name="Test" duration-ms="46" started-at="2021-01-11T12:52:36Z" finished-at="2021-01-11T12:52:36Z">
+    <test name="Test" duration-ms="40188" started-at="2021-01-11T13:09:57Z" finished-at="2021-01-11T13:10:37Z">
       <class name="TestScript.DemoOne">
-        <test-method status="PASS" signature="launchBrowsr()[pri:0, instance:TestScript.DemoOne@2d554825]" name="launchBrowsr" is-config="true" duration-ms="16" started-at="2021-01-11T18:22:36Z" finished-at="2021-01-11T18:22:36Z">
+        <test-method status="PASS" signature="launchBrowsr()[pri:0, instance:TestScript.DemoOne@6b143ee9]" name="launchBrowsr" is-config="true" duration-ms="16" started-at="2021-01-11T18:39:57Z" finished-at="2021-01-11T18:39:57Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- launchBrowsr -->
-        <test-method status="PASS" signature="loginApp()[pri:0, instance:TestScript.DemoOne@2d554825]" name="loginApp" is-config="true" duration-ms="0" started-at="2021-01-11T18:22:36Z" finished-at="2021-01-11T18:22:36Z">
+        <test-method status="PASS" signature="loginApp()[pri:0, instance:TestScript.DemoOne@6b143ee9]" name="loginApp" is-config="true" duration-ms="0" started-at="2021-01-11T18:39:57Z" finished-at="2021-01-11T18:39:57Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginApp -->
-        <test-method status="PASS" signature="testCaseOne()[pri:0, instance:TestScript.DemoOne@2d554825]" name="testCaseOne" duration-ms="0" started-at="2021-01-11T18:22:36Z" finished-at="2021-01-11T18:22:36Z">
+        <test-method status="PASS" signature="testCaseOne()[pri:0, instance:TestScript.DemoOne@6b143ee9]" name="testCaseOne" duration-ms="40138" started-at="2021-01-11T18:39:57Z" finished-at="2021-01-11T18:40:37Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testCaseOne -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:TestScript.DemoOne@2d554825]" name="tearDown" is-config="true" duration-ms="0" started-at="2021-01-11T18:22:36Z" finished-at="2021-01-11T18:22:36Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- tearDown -->
-        <test-method status="PASS" signature="logoutApp()[pri:0, instance:TestScript.DemoOne@2d554825]" name="logoutApp" is-config="true" duration-ms="0" started-at="2021-01-11T18:22:36Z" finished-at="2021-01-11T18:22:36Z">
+        <test-method status="PASS" signature="logoutApp()[pri:0, instance:TestScript.DemoOne@6b143ee9]" name="logoutApp" is-config="true" duration-ms="0" started-at="2021-01-11T18:40:37Z" finished-at="2021-01-11T18:40:37Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- logoutApp -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:TestScript.DemoOne@6b143ee9]" name="tearDown" is-config="true" duration-ms="0" started-at="2021-01-11T18:40:37Z" finished-at="2021-01-11T18:40:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
       </class> <!-- TestScript.DemoOne -->
     </test> <!-- Test -->
   </suite> <!-- Suite -->
