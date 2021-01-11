@@ -21,7 +21,8 @@ public class DemoOne extends BaseClass {
 	}
 
 	@Test
-	public void testCasetwo(){
-		System.out.println("testcase one");
+	public void testCasetwo() throws Throwable{
+		Thread.sleep(1000);
+		System.out.println("testcase two");
 	}
 }
